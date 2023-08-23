@@ -1,0 +1,18 @@
+
+
+Dylan Silva – dylansilva@csu.fullerton.edu 
+
+How To Run:
+
+INPUT: a two dimensional array, the field, along with placement of players, “X”, that must be avoided in route to the goal, bottom right of the field.
+
+OUTPUT: using either method, exhaustive search or dynamic programming, find the amount of different ways to reach the goal, bottom right of field, stating the efficiency, amount of different ways, and prove that this matches expected speed
+
+Problem - Exhaustive Search
+
+This program is ran through setting the number of rows prior to running the program, along with adding in the players, “X”, values.  By simply hitting the run button in a python compiler, the program will iterate through the many ways to reach the goal counting each time it make it.
+
+This will output total numbers of paths given r/c
+
+
+
